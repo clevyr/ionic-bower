@@ -1,12 +1,12 @@
 {
-  name: "cl-ionic-bower",
-  version: "1.3.0",
-  description: "Ionic bower files.",
-  repository: {
-    type: "git",
-    url: "git+https://github.com/clevyr/ionic-bower.git"
+  "name": "cl-ionic-bower",
+  "version": "1.3.0",
+  "description": "Ionic bower files.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clevyr/ionic-bower.git"
   },
-  keywords: [
+  "keywords": [
     "mobile",
     "html5",
     "ionic",
@@ -17,14 +17,14 @@
     "angularjs",
     "angular"
   ],
-  license: "MIT",
-  bugs: {
-    url: "https://github.com/clevyr/ionic-bower/issues"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clevyr/ionic-bower/issues"
   },
-  homepage: "https://github.com/clevyr/ionic-bower#readme",
-  main: "js/ionic.js",
-  private: true,
-  dependencies: {
+  "homepage": "https://github.com/clevyr/ionic-bower#readme",
+  "main": "js/ionic.js",
+  "private": true,
+  "dependencies": {
     "angular": "^1.5.5",
     "angular-animate": "^1.5.5",
     "angular-sanitize": "^1.5.5",
